@@ -7,3 +7,4 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrot2910&layout=compact&hide_border=true&title_color=A020F0&text_color=A020F0&bg_color=0d1117"/>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrot2910&bg_color=000000&color=CE2966&line=A020F0&point=A020F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
