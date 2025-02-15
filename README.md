@@ -10,5 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrot2910&bg_color=000000&color=CE2966&line=A020F0&point=A020F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align=center>
-  <a href="https://www.instagram.com/pedrint_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/pedrint_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
+
+### Main Skills:
